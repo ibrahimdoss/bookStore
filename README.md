@@ -1,4 +1,4 @@
 # bookStore
 bookStore Demo Application
 
-#Read Me düzenlemesi sonradan yapılacaktır.
+# Read Me düzenlemesi sonradan yapılacaktır.
